@@ -1,0 +1,502 @@
+Tell me about Rome.
+What are the pyramids of Giza?
+What is the biggest mammal?
+Explain General Relativity.
+What are the Great Barrier Reef?
+How does GPS work?
+Tell me about the Renaissance.
+What is the history of the British Empire?
+How does the Internet work?
+What are the biggest stars?
+Explain evolution.
+What are the Dead Sea Scrolls?
+How does the brain work?
+Tell me about the Cold War.
+What is the history of the Olympics?
+How does climate change work?
+What are the Great Lakes?
+Explain artificial intelligence.
+What are the highest mountains?
+How does the stock market work?
+Tell me about the Industrial Revolution.
+What is the history of the United States?
+How does the water cycle work?
+What are the longest rivers?
+Explain the Human Genome Project.
+What are the biggest volcanoes?
+How does the solar system work?
+Tell me about the American Civil War.
+What is the history of the Soviet Union?
+How does the weather work?
+What are the biggest earthquakes?
+Explain the Human Brain Project.
+What are the highest waterfalls?
+How does the universe work?
+Tell me about the French Revolution.
+What is the history of the Chinese Empire?
+How does the atmosphere work?
+What are the biggest deserts?
+Explain the periodic table.
+What are the biggest oceans?
+How does the human eye work?
+Tell me about the Russian Revolution.
+What is the history of the Mongol Empire?
+How does the heart work?
+What are the biggest islands?
+Explain the Higgs boson.
+What are the biggest cities?
+How does the human body work?
+Tell me about the Korean War.
+What is the history of the Islamic Golden Age?
+How does the liver work?
+What are the biggest forests?
+Explain the Standard Model.
+What are the biggest mountains?
+How does the human skeleton work?
+Tell me about the Gulf War.
+What is the history of the Aztec Empire?
+How does the pancreas work?
+What are the biggest lakes?
+Explain the Big Bang.
+What are the biggest rivers?
+How does the human skin work?
+Tell me about the Vietnam War.
+What is the history of the Mayan Empire?
+How does the stomach work?
+What are the biggest glaciers?
+Explain the universe expansion.
+What are the biggest canyons?
+How does the human muscle work?
+Tell me about the Falklands War.
+What is the history of the Inca Empire?
+How does the human nose work?
+What are the biggest waterfalls?
+Explain the Big Rip.
+What are the biggest coral reefs?
+How does the human tongue work?
+Tell me about the War of the Roses.
+What is the history of the Persian Empire?
+How does the human ear work?
+What are the biggest bays?
+Explain the dark matter.
+What are the biggest peninsulas?
+How does the human eye work?
+Tell me about the Crimean War.
+What is the history of the Ottoman Empire?
+How does the human tooth work?
+What are the biggest deltas?
+Explain the dark energy.
+What are the biggest mountains?
+How does the human hair work?
+Tell me about the Boer Wars.
+What is the history of the Byzantine Empire?
+How does the human nail work?
+What are the biggest capes?
+Explain the cosmic microwave background.
+What are the biggest rivers?
+How does the human bone work?
+Tell me about the Opium Wars.
+What is the history of the Qing Dynasty?
+How does the human spine work?
+What are the biggest gorges?
+Explain the cosmic strings.
+What are the biggest lochs?
+How does the human knee work?
+Tell me about the Zulu War.
+What is the history of the Babylonian Empire?
+How does the human ankle work?
+What are the biggest fjords?
+Explain the cosmic inflation.
+What are the biggest cities?
+How does the human elbow work?
+Tell me about the Russo-Japanese War.
+What is the history of the Assyrian Empire?
+How does the human wrist work?
+What are the biggest sounds?
+Explain the cosmic rays.
+What are the biggest seas?
+How does the human hand work?
+Tell me about the Spanish Civil War.
+What is the history of the Egyptian Empire?
+How does the human foot work?
+What are the biggest bays?
+Explain the neutron stars.
+What are the biggest islands?
+How does the human leg work?
+Tell me about the Thirty Years War.
+What is the history of the Roman Empire?
+How does the human hip work?
+What are the biggest channels?
+Explain the black dwarfs.
+What are the biggest rivers?
+How does the human abdomen work?
+Tell me about the War of the Austrian Succession.
+What is the history of the Chinese Empire?
+How does the human chest work?
+What are the biggest estuaries?
+Explain the white dwarfs.
+What are the biggest mountains?
+How does the human back work?
+Tell me about the Seven Years War.
+What is the history of the Japanese Empire?
+How does the human pelvis work?
+What are the biggest peninsulas?
+Explain the red dwarfs.
+What are the biggest lakes?
+How does the human head work?
+Tell me about the American Revolutionary War.
+What is the history of the Ottoman Empire?
+How does the human neck work?
+What are the biggest rivers?
+Explain the brown dwarfs.
+What are the biggest oceans?
+How does the human mouth work?
+Tell me about the War of 1812.
+What is the history of the Russian Empire?
+How does the human throat work?
+What are the biggest seas?
+Explain the sub-brown dwarfs.
+What are the biggest islands?
+How does the human esophagus work?
+Tell me about the Mexican-American War.
+What is the history of the Persian Empire?
+How does the human stomach work?
+What are the biggest rivers?
+Explain the brown dwarf stars.
+What are the biggest mountains?
+How does the human small intestine work?
+Tell me about the Crimean War.
+What is the history of the Byzantine Empire?
+How does the human liver work?
+What are the biggest peninsulas?
+Explain the red dwarf stars.
+What are the biggest lakes?
+How does the human pancreas work?
+Tell me about the Opium Wars.
+What is the history of the Qing Dynasty?
+How does the human gallbladder work?
+What are the biggest capes?
+Explain the white dwarf stars.
+What are the biggest oceans?
+How does the human bile duct work?
+Tell me about the Boer Wars.
+What is the history of the Babylonian Empire?
+How does the human kidneys work?
+What are the biggest channels?
+Explain the neutron star stars.
+What are the biggest rivers?
+How does the human bladder work?
+Tell me about the Zulu War.
+What is the history of the Assyrian Empire?
+How does the human ureters work?
+What are the biggest estuaries?
+Explain the black hole stars.
+What are the biggest mountains?
+How does the human urethra work?
+Tell me about the Russo-Japanese War.
+What is the history of the Egyptian Empire?
+How does the human prostate work?
+What are the biggest bays?
+Explain the dark matter stars.
+What are the biggest islands?
+How does the human testicles work?
+Tell me about the Spanish Civil War.
+What is the history of the Roman Empire?
+How does the human epididymis work?
+What are the biggest sounds?
+Explain the dark energy stars.
+What are the biggest lakes?
+How does the human vas deferens work?
+Tell me about the Thirty Years War.
+What is the history of the Chinese Empire?
+How does the human seminal vesicles work?
+What are the biggest peninsulas?
+Explain the cosmic microwave background stars.
+What are the biggest oceans?
+How does the human prostate gland work?
+Tell me about the War of the Austrian Succession.
+What is the history of the Japanese Empire?
+How does the human ejaculatory ducts work?
+What are the biggest rivers?
+Explain the cosmic strings stars.
+What are the biggest mountains?
+How does the human urethral sphincter work?
+Tell me about the Seven Years War.
+What is the history of the Ottoman Empire?
+How does the human urinary bladder work?
+What are the biggest channels?
+Explain the cosmic inflation stars.
+What are the biggest lakes?
+How does the human kidneys work?
+Tell me about the American Revolutionary War.
+What is the history of the Russian Empire?
+How does the human ureters work?
+What are the biggest capes?
+Explain the cosmic rays stars.
+What are the biggest oceans?
+How does the human urethra work?
+Tell me about the War of 1812.
+What is the history of the Persian Empire?
+How does the human epididymis work?
+What are the biggest estuaries?
+Explain the neutron stars stars.
+What are the biggest rivers?
+How does the human testicles work?
+Tell me about the Mexican-American War.
+What is the history of the Byzantine Empire?
+How does the human vas deferens work?
+What are the biggest bays?
+Explain the brown dwarfs stars.
+What are the biggest islands?
+How does the human seminal vesicles work?
+Tell me about the Crimean War.
+What is the history of the Qing Dynasty?
+How does the human prostate gland work?
+What are the biggest peninsulas?
+Explain the red dwarfs stars.
+What are the biggest lakes?
+How does the human ejaculatory ducts work?
+Tell me about the Opium Wars.
+What is the history of the Babylonian Empire?
+How does the human urethral sphincter work?
+What are the biggest channels?
+Explain the sub-brown dwarfs stars.
+What are the biggest oceans?
+How does the human urinary bladder work?
+Tell me about the Boer Wars.
+What is the history of the Assyrian Empire?
+How does the human kidneys work?
+What are the biggest capes?
+Explain the brown dwarf stars stars.
+What are the biggest mountains?
+How does the human ureters work?
+Tell me about the Zulu War.
+What is the history of the Egyptian Empire?
+How does the human adrenal glands work?
+What are the biggest fjords?
+Explain the white holes.
+What are the biggest archipelagos?
+How does the human spleen work?
+Tell me about the Spanish Inquisition.
+What is the history of the Aztec Empire?
+How does the human thymus work?
+What are the biggest inlets?
+Explain the wormholes.
+What are the biggest plateaus?
+How does the human tonsils work?
+Tell me about the Napoleonic Wars.
+What is the history of the Mughal Empire?
+How does the human appendix work?
+What are the biggest valleys?
+Explain the multiverse theory.
+What are the biggest straits?
+How does the human hypothalamus work?
+Tell me about the Boxer Rebellion.
+What is the history of the Maurya Empire?
+How does the human pituitary gland work?
+What are the biggest peninsulas?
+Explain the quasar phenomena.
+What are the biggest tundras?
+How does the human thyroid work?
+Tell me about the Glorious Revolution.
+What is the history of the Persian Empire?
+How does the human parathyroid work?
+What are the biggest swamps?
+Explain the black holes.
+What are the biggest glaciers?
+How does the human pineal gland work?
+Tell me about the Peloponnesian War.
+What is the history of the Carthaginian Empire?
+How does the human lymph nodes work?
+What are the biggest isthmuses?
+Explain the dark energy.
+What are the biggest savannas?
+How does the human salivary glands work?
+Tell me about the Punic Wars.
+What is the history of the Sassanid Empire?
+How does the human pharynx work?
+What are the biggest rainforests?
+Explain the gravitational waves.
+What are the biggest deserts?
+How does the human larynx work?
+Tell me about the Hundred Years' War.
+What is the history of the Seljuk Empire?
+How does the human trachea work?
+What are the biggest mesas?
+Explain the cosmic voids.
+What are the biggest wetlands?
+How does the human bronchi work?
+Tell me about the Renaissance.
+What is the history of the Umayyad Caliphate?
+How does the human alveoli work?
+What are the biggest forests?
+Explain the singularity concept.
+What are the biggest prairies?
+How does the human diaphragm work?
+Tell me about the Reformation.
+What is the history of the Abbasid Caliphate?
+How does the human pleura work?
+What are the biggest plains?
+Explain the supernova explosions.
+What are the biggest marshes?
+How does the human pericardium work?
+Tell me about the Scientific Revolution.
+What is the history of the Frankish Empire?
+How does the human myocardium work?
+What are the biggest grasslands?
+Explain the Big Crunch theory.
+What are the biggest woodland areas?
+How does the human endocardium work?
+Tell me about the Enlightenment.
+What is the history of the Hellenistic Empire?
+How does the human aorta work?
+What are the biggest cliffs?
+Explain the Big Bounce theory.
+What are the biggest hills?
+How does the human vena cava work?
+Tell me about the Age of Exploration.
+What is the history of the Byzantine Empire?
+How does the human capillaries work?
+What are the biggest fjords?
+Explain the inflationary universe.
+What are the biggest dunes?
+How does the human venules work?
+Tell me about the Age of Enlightenment.
+What is the history of the Holy Roman Empire?
+How does the human arterioles work?
+What are the biggest ridges?
+Explain the cyclic universe theory.
+What are the biggest plateaus?
+How does the human lymphatic vessels work?
+Tell me about the Age of Empires.
+What is the history of the Ottoman Empire?
+How does the human interstitial fluid work?
+What are the biggest deltas?
+Explain the holographic principle.
+What are the biggest ranges?
+How does the human cerebrospinal fluid work?
+Tell me about the Industrial Revolution.
+What is the history of the Roman Republic?
+How does the human extracellular matrix work?
+What are the biggest basins?
+Explain the anthropic principle.
+What are the biggest depressions?
+How does the human blood plasma work?
+Tell me about the Agricultural Revolution.
+What is the history of the Russian Empire?
+How does the human synovial fluid work?
+What are the biggest terrains?
+Explain the holographic universe.
+What are the biggest salt flats?
+How does the human gastric juice work?
+Tell me about the Information Age.
+What is the history of the British Empire?
+How does the human bile work?
+What are the biggest landscapes?
+Explain the quantum fluctuations.
+What are the biggest tundras?
+How does the human pancreatic juice work?
+Tell me about the Digital Revolution.
+What is the history of the French Empire?
+How does the human intestinal juice work?
+What are the biggest velds?
+Explain the wave-particle duality.
+What are the biggest karsts?
+How does the human renal plasma flow work?
+Tell me about the Renaissance Period.
+What is the history of the Dutch Empire?
+How does the human glomerular filtration work?
+What are the biggest badlands?
+Explain the uncertainty principle.
+What are the biggest fjards?
+How does the human tubular reabsorption work?
+Tell me about the Elizabethan Era.
+What is the history of the Portuguese Empire?
+How does the human tubular secretion work?
+What are the biggest icebergs?
+Explain the parallel universe theory.
+What are the biggest fjords?
+How does the human countercurrent multiplication work?
+Tell me about the Victorian Era.
+What is the history of the Spanish Empire?
+How does the human vasa recta work?
+What are the biggest isles?
+Explain the string theory.
+What are the biggest icecaps?
+How does the human renal circulation work?
+Tell me about the Edwardian Era.
+What is the history of the German Empire?
+How does the human renal autoregulation work?
+What are the biggest fjords?
+Explain the M-theory.
+What are the biggest archipelagos?
+How does the human renal clearance work?
+Tell me about the Jazz Age.
+What is the history of the Austro-Hungarian Empire?
+How does the human renal blood flow work?
+What are the biggest archipelagos?
+Explain the loop quantum gravity.
+What are the biggest swamps?
+How does the human renal plasma flow work?
+Tell me about the Roaring Twenties.
+What is the history of the Persian Empire?
+How does the human urine concentration work?
+What are the biggest marshes?
+Explain the quantum chromodynamics.
+What are the biggest barrier islands?
+How does the human urine dilution work?
+Tell me about the Great Depression.
+What is the history of the Chinese Empire?
+How does the human renal threshold work?
+What are the biggest coastal areas?
+Explain the quantum electrodynamics.
+What are the biggest coastal regions?
+How does the human renal transport maximum work?
+Tell me about the Cold War Era.
+What is the history of the Japanese Empire?
+How does the human renal countercurrent exchange work?
+What are the biggest fjords?
+Explain the standard model of particle physics.
+What are the biggest coastal plains?
+How does the human renal medullary osmotic gradient work?
+Tell me about the Post-War Era.
+What is the history of the Italian Empire?
+How does the human renal cortex work?
+What are the biggest coastal areas?
+Explain the grand unified theory.
+What are the biggest coastal zones?
+How does the human renal pyramids work?
+Tell me about the Modern Era.
+What is the history of the Korean Empire?
+How does the human renal papillae work?
+What are the biggest coastal ecosystems?
+Explain the theory of everything.
+What are the biggest coastal habitats?
+How does the human renal columns work?
+Tell me about the Contemporary Era.
+What is the history of the Vietnamese Empire?
+How does the human renal lobes work?
+What are the biggest coastal environments?
+What are the biggest coastal landscapes?
+Explain the anthropic principle.
+What are the biggest coastal lagoons?
+How does the human liver sinusoids work?
+Tell me about the Industrial Revolution.
+What is the history of the German Empire?
+How does the human portal vein work?
+What are the biggest coastal mangroves?
+Explain the holographic principle.
+What are the biggest coastal coral reefs?
+How does the human lymphatic vessels work?
+Tell me about the Age of Exploration.
+What is the history of the British Empire?
+How does the human thoracic duct work?
+What are the biggest coastal rivers?
+Explain the inflationary universe.
+What are the biggest coastal estuaries?
+How does the human lymph nodes work?
+Tell me about the Age of Empires.
+What is the history of the Roman Empire?
+How does the human lymphoid organs work?
+What are the biggest coastal bays?
+Explain the cyclic universe theory.
